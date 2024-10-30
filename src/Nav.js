@@ -4,9 +4,9 @@ function Nav(){
     return(
         <nav>
             <div>
-            <img src="/logo192.png" alt="image"/>
+            <img src="/logo.png" alt="image"/>
             </div>
-            <ul>
+            <ul id="navlinks">
                 <li> <a href="/#"> Home </a></li>
                 <li><a href="/#"> About</a></li>
                 <li><a href="/#"> Menu</a></li>
